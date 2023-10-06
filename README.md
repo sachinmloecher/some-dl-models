@@ -1,10 +1,3 @@
-## Developers
-
-- "Alejandro Armas <armas@ucdavis.edu>",
-- "Lia Hepler-Mackey <lmheplermackey@ucdavis.edu>",
-- "Sachin Loecher <smloecher@ucdavis.edu>"
-- "Matthew Schulz <mkschulz@ucdavis.edu>"
-
 ## Getting Started
 
 We are using `poetry` as our package manager solution. To get started, run `poetry shell`, to create a nested shell with a virtual environment. Verify your environment with `poetry env info`. Then, run `poetry install` to capture all the dependencies.
